@@ -32,3 +32,9 @@ Week 1:
 - Cloud website hosting
 - Cloud troubleshooting lab
 - Dockerized cloud app
+
+every day command at WSL
+Work on files
+git add .
+git commit -m "what you did today"
+git push
